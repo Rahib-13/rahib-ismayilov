@@ -1,6 +1,6 @@
 ### Hi there 👋
-f# 💫 About Me:
-Front-End Development Öyrənirəm
+# 💫 About Me:
+I am learning front-end development
 
 
 ## 🌐 Socials:
